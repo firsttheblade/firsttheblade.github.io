@@ -1,14 +1,11 @@
 
 /*========== GLOBAL ELEMENTS ==========*/
-html{ 
+body{
 	background: url(../assets/in1.3.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-}
-
-body{
 	font-family: 'Lobster', cursive, Century Gothic, sans-serif;
 }
 

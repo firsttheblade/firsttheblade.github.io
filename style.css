@@ -8,14 +8,14 @@ body{
 	background-size: cover;
 	font-family: 'Lobster', cursive, Century Gothic, sans-serif;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px){
 body{
 	background-image: url(../ftb/assets/in1.3-mobile.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
-}
+}}
 
 img{
 	width: 360px;

@@ -1,2 +1,0 @@
-# firsttheblade.github.io
-readme

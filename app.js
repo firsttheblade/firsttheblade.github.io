@@ -28,9 +28,4 @@ controllers.mainControl = function($scope){
 		});
 	});
 };
- 
-<<<<<<< HEAD
 app.controller(controllers);
-=======
-app.controller(controllers);
->>>>>>> 1bf61bff50d532c370e4c65363d89ce4bf0de5fc

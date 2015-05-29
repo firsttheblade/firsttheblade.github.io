@@ -12,6 +12,7 @@ body{
 img{
 	width: 360px;
 	height: 500px !important;
+	border-radius: 10px;
 }
 
 a{
@@ -48,9 +49,8 @@ a{
 
 .text-background{
 	background: rgb(181, 181, 181); /* The Fallback */
-	background: rgba(181, 181, 181, 0.5);
-	border: solid 2px black;
-	border-radius: 50px;	
+	background: rgba(181, 181, 181, 0.7);
+	border-radius: 10px;
 }
 
 /*========== CUSTOM HELPER CLASSES ==========*/

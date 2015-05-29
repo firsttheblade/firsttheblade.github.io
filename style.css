@@ -1,7 +1,7 @@
 
 /*========== GLOBAL ELEMENTS ==========*/
 body{
-	background: url(../assets/in1.3.jpg) no-repeat center; 
+	background: url(../assets/in1.3.jpg) no-repeat center fixed; 
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	-o-background-size: cover !important;

@@ -1,0 +1,119 @@
+
+/*========== GLOBAL ELEMENTS ==========*/
+body {
+  background-image: url(../ftb/assets/in1.3.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Lobster', cursive, Century Gothic, sans-serif;
+}
+
+img{
+	width: 360px;
+	height: 500px !important;
+}
+
+a{
+	color: #B81A0F;
+}
+
+/*========== NAVBAR ==========*/
+
+
+/*========== COLORS ==========*/
+.pColor{
+	background-color: #B81A0F;
+}
+
+.sColor{
+	background-color: #FCFCFC;
+}
+
+.pColor-text{
+	color: #B81A0F;
+}
+
+.sColor-text{
+	color: #FCFCFC;;
+}
+
+.black-text{
+	color: black;
+}
+
+.white-text{
+	color: #ffffff;
+}
+
+.text-background{
+	background: rgb(181, 181, 181); /* The Fallback */
+	background: rgba(181, 181, 181, 0.5);
+	border: solid 2px black;
+	border-radius: 50px;	
+}
+
+/*========== CUSTOM HELPER CLASSES ==========*/
+.padding-none{
+	padding: 0px;
+}
+
+.padding-top{
+	padding-top: 40px;
+}
+
+.padding-top-small{
+	padding-top: 10px;
+}
+
+.padding-bottom{
+	padding-bottom: 40px;
+}
+
+.padding-bottom-small{
+	padding-bottom: 10px;
+}
+
+.margin-top{
+	margin-top: 40px;
+}
+
+.margin-top-small{
+	margin-top: 10px;
+}
+
+.margin-bottom{
+	margin-bottom: 40px;
+}
+
+.margin-bottom-small{
+	margin-bottom: 10px;
+}
+
+.border-top{
+	border-top: solid 2px black;
+}
+
+.border-bottom{
+	border-bottom: solid 2px black;
+}
+
+.box-shadow{
+	box-shadow: 0 5px 5px rgba(0,0,0,.2);
+}
+
+.box-shadow-top{
+	box-shadow: 0 -5px 5px rgba(0,0,0,.2);
+}
+
+.title-text{
+	font-size: 56px;
+}
+
+.pull-right{
+	text-align: right;
+}
+
+.opaque{
+	opacity: .75;
+}

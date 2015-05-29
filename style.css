@@ -10,7 +10,7 @@ body{
 }
 @media only screen and (max-width: 767px){
 body{
-	background-image: url(../ftb/assets/in1.3-mobile.jpg);
+	background-image: url(../assets/in1.3-mobile.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
